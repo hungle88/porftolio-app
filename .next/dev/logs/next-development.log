@@ -9,3 +9,24 @@
 {"timestamp":"00:03:35.600","source":"Server","level":"ERROR","message":"[browser] \"A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\\n\\n- A server/client branch `if (typeof window !== 'undefined')`.\\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\\n- Date formatting in a user's locale which doesn't match the server.\\n- External changing data without sending a snapshot of it along with the HTML.\\n- Invalid HTML tag nesting.\\n\\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\\n\\nhttps://react.dev/link/hydration-mismatch\\n\\n  ...\\n    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>\\n      <AppDevOverlayErrorBoundary globalError={[...]}>\\n        <ReplaySsrOnlyErrors>\\n        <DevRootHTTPAccessFallbackBoundary>\\n          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>\\n            <HTTPAccessFallbackErrorBoundary pathname=\\\"/\\\" notFound={<NotAllowedRootHTTPFallbackError>} ...>\\n              <RedirectBoundary>\\n                <RedirectErrorBoundary router={{...}}>\\n                  <Head>\\n                  <__next_root_layout_boundary__>\\n                    <SegmentViewNode type=\\\"layout\\\" pagePath=\\\"layout.tsx\\\">\\n                      <SegmentTrieNode>\\n                      <link>\\n                      <script>\\n                      <script>\\n                      <script>\\n                      <script>\\n                      <RootLayout>\\n                        <html lang=\\\"en\\\" className=\\\"poppins_dc...\\\">\\n                          <body\\n                            className=\\\"min-h-full flex flex-col\\\"\\n-                           wotdisconnected=\\\"true\\\"\\n                          >\\n                  ...\\n\" \"\""}
 {"timestamp":"00:06:54.799","source":"Server","level":"LOG","message":"✓ Compiled in 127ms"}
 {"timestamp":"00:08:00.187","source":"Server","level":"LOG","message":"✓ Compiled in 88ms"}
+{"timestamp":"00:28:51.267","source":"Server","level":"LOG","message":"✓ Compiled in 63ms"}
+{"timestamp":"00:30:43.533","source":"Server","level":"LOG","message":"✓ Compiled in 46ms"}
+{"timestamp":"00:33:26.971","source":"Server","level":"LOG","message":"✓ Compiled in 22ms"}
+{"timestamp":"00:34:04.724","source":"Server","level":"LOG","message":"✓ Compiled in 38ms"}
+{"timestamp":"00:34:51.527","source":"Server","level":"LOG","message":"✓ Compiled in 23ms"}
+{"timestamp":"00:35:11.989","source":"Server","level":"LOG","message":"✓ Compiled in 29ms"}
+{"timestamp":"00:37:07.757","source":"Server","level":"LOG","message":"✓ Compiled in 31ms"}
+{"timestamp":"00:44:10.636","source":"Server","level":"LOG","message":"✓ Compiled in 131ms"}
+{"timestamp":"00:45:48.078","source":"Server","level":"LOG","message":"✓ Compiled in 49ms"}
+{"timestamp":"00:46:41.201","source":"Server","level":"LOG","message":"✓ Compiled in 19ms"}
+{"timestamp":"00:53:55.399","source":"Server","level":"LOG","message":"✓ Compiled in 51ms"}
+{"timestamp":"00:58:59.985","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload when ./app/components/navbar/Navbar.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload"}
+{"timestamp":"00:59:00.003","source":"Server","level":"LOG","message":"✓ Compiled in 61ms"}
+{"timestamp":"01:00:36.679","source":"Server","level":"LOG","message":"✓ Compiled in 47ms"}
+{"timestamp":"01:02:27.056","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload when ./app/components/navbar/Navbar.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload"}
+{"timestamp":"01:02:27.082","source":"Server","level":"LOG","message":"✓ Compiled in 216ms"}
+{"timestamp":"01:02:56.152","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload when ./app/components/navbar/Navbar.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload"}
+{"timestamp":"01:02:56.154","source":"Server","level":"LOG","message":"✓ Compiled in 23ms"}
+{"timestamp":"01:04:32.897","source":"Server","level":"LOG","message":"✓ Compiled in 38ms"}
+{"timestamp":"01:04:32.898","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload when ./app/components/navbar/Navbar.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload"}
+{"timestamp":"01:06:56.298","source":"Server","level":"LOG","message":"✓ Compiled in 103ms"}

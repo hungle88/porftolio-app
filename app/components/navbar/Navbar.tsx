@@ -4,9 +4,10 @@ import { useEffect, useState } from 'react';
 import Logo from './Logo';
 import Link from 'next/link';
 import LinkButton from '../ui/LinkButton';
-import { LuDownload } from 'react-icons/lu';
+import { LuDownload, LuMenu, LuX } from 'react-icons/lu';
+import MobileNav from './MobileNav';
 
-const navLinks = [
+export const navLinks = [
   { href: '#home', label: 'Home' },
   { href: '#about', label: 'About' },
   { href: '#projects', label: 'Projects' },
@@ -16,6 +17,7 @@ const navLinks = [
 
 function Navbar() {
   const [scrolled, setScrolled] = useState(false);
+  const [navOpen, setNavOpen] = useState(false);
   useEffect(() => {
     const handleScroll = () => {
       setScrolled(window.scrollY > 40);
@@ -24,9 +26,10 @@ function Navbar() {
     return () => window.removeEventListener('scroll', handleScroll);
   });
   return (
+    <>
     <div>
       <nav
-        className={`fixed top-0 left-0 w-full z-30 transition-all duration-300 ${scrolled ? 'backdrop-blur-2xl' : 'bg-transparent'}`}
+        className={`fixed top-0 left-0 w-full z-60 transition-all duration-300 ${scrolled ? 'backdrop-blur-2xl' : 'bg-transparent'}`}
       >
         <div className='w-[95%] lag:w-[90%] mx-auto h-16 flex items-center justify-between'>
           <Logo />
@@ -51,14 +54,30 @@ function Navbar() {
               iconPosition='left'
               icon={LuDownload}
               text='download resume'
-              href='/documents/cv.pdf'
+              href='/documents/Hung_Le_Resume_Front_End_Engineer.pdf'
               rounded
               download
             />
           </div>
+          <button
+          onClick={() => setNavOpen(!navOpen)}
+            className='z-50
+          lg:hidden 
+          w-10 h-10 rounded-lg
+          flex items-center justify-center
+          border border-border
+          bg-surface/60
+          text-text
+          hover: border-primary hover:text-primary
+          transition'
+          >
+            {navOpen ? <LuX size={22} /> : <LuMenu size={22} />}
+          </button>
         </div>
       </nav>
     </div>
+    <MobileNav navOpen={navOpen}/>
+    </>
   );
 }
 

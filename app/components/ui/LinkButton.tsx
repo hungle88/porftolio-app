@@ -37,7 +37,7 @@ function LinkButton({
         hover: border-primary hover:bg-primary/10`,
   };
   return (
-    <Link className={`${baseStyles} ${variants[variant]}`} href={href}>
+    <Link download={download} className={`${baseStyles} ${variants[variant]}`} href={href}>
       {Icon && iconPosition === 'left' && <Icon className='w-5 h-5 z-10' />}
       <span className="z-10">{text}</span>
       {Icon && iconPosition === 'right' && <Icon className='w-5 h-5 z-10' />}
