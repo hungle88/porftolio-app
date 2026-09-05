@@ -33,6 +33,7 @@ function HeroSection() {
       >
         <div className='space-y-6'>
           <span
+          data-aos="fade-up"
             className='inline-block px-4 py-1.5 rounded-full bg-primary/10
              text-primary text-sm border border-border'
           >

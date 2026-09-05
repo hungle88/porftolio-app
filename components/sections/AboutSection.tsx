@@ -12,7 +12,7 @@ function AboutSection() {
         className='w-[90%] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16
     items-center'
       >
-        <div className='flex justify-center lg:justify-start'>
+        <div data-aos="fade-right" data-aos-delay="100" data-aos-anchor-placement="top-center" className='flex justify-center lg:justify-start'>
           <div
             className='relative w-85 h-85 md:w-120 md:h-120 
             rounded-2xl
@@ -35,7 +35,7 @@ blur-2xl'
           </div>
         </div>
 
-        <div className='space-y-6'>
+        <div className='space-y-6' data-aos="fade-left" data-aos-delay="100" data-aos-anchor-placement="top-center">
           <span
             className='text-sm text-primary bg-primary/10 px-4 py-1.5
             rounded-full border border-border inline-block'
