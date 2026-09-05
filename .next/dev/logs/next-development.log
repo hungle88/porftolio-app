@@ -199,3 +199,7 @@
 {"timestamp":"05:02:57.051","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/express-script.webp\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\""}
 {"timestamp":"05:02:57.052","source":"Browser","level":"WARN","message":"Image with src \"/images/evernorth-mobile.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
 {"timestamp":"05:02:57.053","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/evernorth-mobile.png\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\""}
+{"timestamp":"05:53:40.061","source":"Server","level":"LOG","message":"✓ Compiled in 217ms"}
+{"timestamp":"05:54:20.362","source":"Server","level":"LOG","message":"✓ Compiled in 210ms"}
+{"timestamp":"06:00:03.594","source":"Server","level":"LOG","message":"✓ Compiled in 171ms"}
+{"timestamp":"06:09:36.202","source":"Server","level":"LOG","message":"✓ Compiled in 282ms"}
