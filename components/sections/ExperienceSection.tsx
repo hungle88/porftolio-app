@@ -1,4 +1,3 @@
-import { MdDescription } from 'react-icons/md';
 import SectionHeader from '../ui/SectionHeader';
 
 const experiences = [

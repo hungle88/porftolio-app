@@ -481,7 +481,7 @@ function ExperienceSection() {
                 className: "absolute top-1/2 left-1/4 -translate-x-1/2 w-80 h-80\n    rounded-full blur-3xl bg-primary/10"
             }, void 0, false, {
                 fileName: "[project]/components/sections/ExperienceSection.tsx",
-                lineNumber: 25,
+                lineNumber: 24,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$4_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$20$2e$19$2e$43_react$2d$dom$40$19$2e$2$2e$8_react$40$19$2e$2$2e$8_$5f$react$40$19$2e$2$2e$8$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -494,7 +494,7 @@ function ExperienceSection() {
                         description: "A timeline of my growth as a developer."
                     }, void 0, false, {
                         fileName: "[project]/components/sections/ExperienceSection.tsx",
-                        lineNumber: 30,
+                        lineNumber: 29,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$4_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$20$2e$19$2e$43_react$2d$dom$40$19$2e$2$2e$8_react$40$19$2e$2$2e$8_$5f$react$40$19$2e$2$2e$8$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -504,7 +504,7 @@ function ExperienceSection() {
                                 className: "absolute left-0 md:left-1/2 top-0 bottom-0 w-0.5\n            bg-linear-to-b from-primary/70 via-primary/30 to-transparent\n            md: -translate-x-1/2 shadow-[0)0_25px_rgba(32,178,166, 0.8)]"
                             }, void 0, false, {
                                 fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                lineNumber: 37,
+                                lineNumber: 36,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$4_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$20$2e$19$2e$43_react$2d$dom$40$19$2e$2$2e$8_react$40$19$2e$2$2e$8_$5f$react$40$19$2e$2$2e$8$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -518,12 +518,12 @@ function ExperienceSection() {
                                                     className: "absolute inset-0 rounded-full \n                    bg-primary animate-ping opacity-75"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                    lineNumber: 50,
+                                                    lineNumber: 49,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                lineNumber: 45,
+                                                lineNumber: 44,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$4_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$20$2e$19$2e$43_react$2d$dom$40$19$2e$2$2e$8_react$40$19$2e$2$2e$8_$5f$react$40$19$2e$2$2e$8$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -536,7 +536,7 @@ function ExperienceSection() {
                                                             children: exp.period
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                            lineNumber: 63,
+                                                            lineNumber: 62,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$4_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$20$2e$19$2e$43_react$2d$dom$40$19$2e$2$2e$8_react$40$19$2e$2$2e$8_$5f$react$40$19$2e$2$2e$8$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -544,7 +544,7 @@ function ExperienceSection() {
                                                             children: exp.role
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                            lineNumber: 66,
+                                                            lineNumber: 65,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$4_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$20$2e$19$2e$43_react$2d$dom$40$19$2e$2$2e$8_react$40$19$2e$2$2e$8_$5f$react$40$19$2e$2$2e$8$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -552,7 +552,7 @@ function ExperienceSection() {
                                                             children: exp.company
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                            lineNumber: 67,
+                                                            lineNumber: 66,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$4_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$20$2e$19$2e$43_react$2d$dom$40$19$2e$2$2e$8_react$40$19$2e$2$2e$8_$5f$react$40$19$2e$2$2e$8$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -560,7 +560,7 @@ function ExperienceSection() {
                                                             children: exp.description
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                            lineNumber: 68,
+                                                            lineNumber: 67,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$4_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$20$2e$19$2e$43_react$2d$dom$40$19$2e$2$2e$8_react$40$19$2e$2$2e$8_$5f$react$40$19$2e$2$2e$8$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -570,52 +570,52 @@ function ExperienceSection() {
                                                                     children: tech
                                                                 }, techIndex, false, {
                                                                     fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                                    lineNumber: 73,
+                                                                    lineNumber: 72,
                                                                     columnNumber: 25
                                                                 }, this))
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                            lineNumber: 69,
+                                                            lineNumber: 68,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                    lineNumber: 58,
+                                                    lineNumber: 57,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                                lineNumber: 55,
+                                                lineNumber: 54,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, index, true, {
                                         fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                        lineNumber: 44,
+                                        lineNumber: 43,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/components/sections/ExperienceSection.tsx",
-                                lineNumber: 42,
+                                lineNumber: 41,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/sections/ExperienceSection.tsx",
-                        lineNumber: 36,
+                        lineNumber: 35,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/sections/ExperienceSection.tsx",
-                lineNumber: 29,
+                lineNumber: 28,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/sections/ExperienceSection.tsx",
-        lineNumber: 24,
+        lineNumber: 23,
         columnNumber: 5
     }, this);
 }
